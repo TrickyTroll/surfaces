@@ -5,7 +5,7 @@ Graphiques de surfaces dans des notebooks Jupyter.
 
 ### Démarrer l'environnement
 
-Pour utiliser le *notebook*, cliquez sur le fichier `diff_equations.ipynb` situé plus haut. Vous
+Pour utiliser le *notebook*, cliquez sur le fichier `surfaces.ipynb` situé plus haut. Vous
 pouvez aussi cliquer sur ce [lien](https://github.com/TrickyTroll/surfaces/blob/main/surfaces.ipynb).
 
 Ensuite, une fois que le *notebook* sera chargé, cliquez sur l'icône «Open in Colab», ou l'équivalent en français.
